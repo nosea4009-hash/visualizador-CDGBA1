@@ -1,0 +1,9 @@
+streamlit
+matplotlib
+cartopy
+xarray
+s3fs
+metpy
+netCDF4
+h5netcdf
+scipy
