@@ -1,0 +1,14 @@
+name: satelite-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - streamlit
+  - cartopy
+  - matplotlib
+  - metpy
+  - xarray
+  - s3fs
+  - netcdf4
+  - h5netcdf
+  - scipy
