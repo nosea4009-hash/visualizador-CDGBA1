@@ -2,9 +2,8 @@ streamlit
 numpy<2.0.0
 matplotlib
 cartopy
+metpy
 xarray
 s3fs
-metpy
 netCDF4
 h5netcdf
-scipy
