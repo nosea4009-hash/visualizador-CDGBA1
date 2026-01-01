@@ -1,4 +1,5 @@
 streamlit
+numpy<2.0.0
 matplotlib
 xarray
 s3fs
@@ -6,3 +7,4 @@ netCDF4
 h5netcdf
 scipy
 metpy
+boto3
